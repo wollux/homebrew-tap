@@ -1,6 +1,6 @@
 cask "pastejack" do
-  version "0.3.0"
-  sha256 "3dcecc98b3b82e231d203e6a39fcc62d3fbf70fe8edf840bc043fb39d96414cb"
+  version "0.3.1"
+  sha256 "49f3fedf46b84e73476088cfecc9cc850d8001dd091bbd8efc41be42918d0283"
   url "https://github.com/wollux/PasteJack/releases/download/v#{version}/PasteJack-#{version}.dmg"
   name "PasteJack"
   desc "Paste clipboard contents as simulated keystrokes — bypass paste-blocking"
